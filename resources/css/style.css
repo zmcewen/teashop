@@ -15,6 +15,7 @@ header {
   background-color: black;
   height:69px;
   width: 100%;
+  margin-top: -8px;
   border-bottom: 1px solid Seashell;
   position: fixed;
   z-index: 1;
@@ -42,7 +43,7 @@ nav span a {
   opacity: 0.9;
 }
 .main {
-  padding-top: 70px;
+  padding-top: 60px;
   width: 1200px;
   margin: auto;
 }
